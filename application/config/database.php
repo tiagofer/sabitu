@@ -48,9 +48,9 @@
 $active_group = 'default';
 $active_record = TRUE;
 
-$db['default']['hostname'] = 'db.epm.br';
-$db['default']['username'] = 'websabitu';
-$db['default']['password'] = 'Utibasbew2015';
+$db['default']['hostname'] = 'miguel.com.br';
+$db['default']['username'] = 'root';
+$db['default']['password'] = 'tia168**';
 $db['default']['database'] = 'web_sabitu';
 $db['default']['dbdriver'] = 'mysql';
 $db['default']['dbprefix'] = '';
