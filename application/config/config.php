@@ -14,7 +14,7 @@
 | path to your installation.
 */
 
-$config['base_url']	= '172.21.160.20';
+$config['base_url']	= 'http://172.21.160.20';
 $config['app_name']	= 'SABITU';
 $config['app_vers']	= 'Beta 1.0.0';
 $config['app_desc']	= 'Gerador de Formulários';
