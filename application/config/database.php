@@ -48,10 +48,10 @@
 $active_group = 'default';
 $active_record = TRUE;
 
-$db['default']['hostname'] = 'miguel.com.br';
+$db['default']['hostname'] = 'burundi';
 $db['default']['username'] = 'root';
-$db['default']['password'] = 'tia168**';
-$db['default']['database'] = 'web_sabitu';
+$db['default']['password'] = 'asustuv4x';
+$db['default']['database'] = 'sabitu';
 $db['default']['dbdriver'] = 'mysql';
 $db['default']['dbprefix'] = '';
 $db['default']['pconnect'] = TRUE;
