@@ -49,7 +49,7 @@ $active_group = 'default';
 $active_record = TRUE;
 
 $db['default']['hostname'] = 'burundi';
-$db['default']['username'] = 'root';
+$db['default']['username'] = 'tiago';
 $db['default']['password'] = 'asustuv4x';
 $db['default']['database'] = 'sabitu';
 $db['default']['dbdriver'] = 'mysql';

@@ -14,14 +14,14 @@
 | path to your installation.
 */
 
-$config['base_url']	= 'gabao';
+$config['base_url']	= '';
 $config['app_name']	= 'SABITU';
 $config['app_vers']	= 'Beta 1.0.0';
 $config['app_desc']	= 'Gerador de Formulários';
 
 $config['adm_user']	= array(
-        				"Dados do Usuário"      => "usuario",
-        				"Formulário"            => "form"
+        				"Dados do Usuário"      => "usuarios",
+        				"Formulário"            => "form_cadastro"
         			  );
 
 $config['adm_menu']	= array(
