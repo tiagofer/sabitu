@@ -20,8 +20,8 @@ $config['app_vers']	= 'Beta 1.0.0';
 $config['app_desc']	= 'Gerador de Formulários';
 
 $config['adm_user']	= array(
-        				"Dados do Usuário"      => "usuarios",
-        				"Formulário"            => "form_cadastro"
+        				"Dados do Usuário"      => "usuario",
+        				"Formulário"            => "form"
         			  );
 
 $config['adm_menu']	= array(
